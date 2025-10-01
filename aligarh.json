@@ -6,6 +6,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "c70a6eacf2f40825",
+        "key": "axom321",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2025",
