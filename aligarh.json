@@ -12,6 +12,18 @@
         "Allowoffline": true
     },
     {
+        "device_id": "copyid",
+        "key": "123456",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "copyid",
+        "key": "123456",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
+    },    
+    {
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2025",
