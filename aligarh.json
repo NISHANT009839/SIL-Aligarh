@@ -22,7 +22,13 @@
         "key": "triel",
         "expirydate": "11-01-2026",
         "Allowoffline": true
-    },    
+    },
+    {
+        "device_id": "cef6dbf2b24a68e9",
+        "key": "123test",
+        "expirydate": "19-01-2026",
+        "Allowoffline": true
+    },
     {
         "device_id": "device456",
         "key": "key67890",
