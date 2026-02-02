@@ -60,6 +60,13 @@
         "Allowoffline": true
     },
     {
+        "device_id": "717e5a7bbeee3789",
+        "key": "2hour",
+        "expirydate": "03-02-2026",
+        "Allowoffline": true
+    },
+    {
+    {
         "device_id": "1c28d12cd680365d",
         "key": "1M24FAB",
         "expirydate": "25-02-2026",
