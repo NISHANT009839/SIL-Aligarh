@@ -132,6 +132,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "4686f52337565388",
+        "key": "dinesh",
+        "expirydate": "08-02-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2025",
