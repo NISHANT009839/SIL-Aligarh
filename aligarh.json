@@ -186,6 +186,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "ee2ec3b4eddc2f5a",
+        "key": "bamniya08",
+        "expirydate": "08-03-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2025",
