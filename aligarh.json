@@ -126,6 +126,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "device_id",
+        "key": "123JKL",
+        "expirydate": "11-02-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "922c4d0ac5d1e2bd",
         "key": "PB890",
         "expirydate": "11-02-2026",
