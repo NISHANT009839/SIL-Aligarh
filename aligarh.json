@@ -192,6 +192,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "ccea5825bdf30f01",
+        "key": "guru6d",
+        "expirydate": "15-02-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2025",
