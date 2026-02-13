@@ -270,6 +270,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "98f69faec8ce357b",
+        "key": "arman6x",
+        "expirydate": "22-02-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2025",
