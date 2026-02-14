@@ -282,6 +282,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "d3058cb149b66292",
+        "key": "ekyc04",
+        "expirydate": "18-02-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2025",
