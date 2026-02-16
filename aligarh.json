@@ -302,7 +302,13 @@
     {
         "device_id": "35d4abece3496cd1",
         "key": "rahul67",
-        "expirydate": "17-02-2026",
+        "expirydate": "16-03-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "633fca6a6f3d6731",
+        "key": "rahul78",
+        "expirydate": "16-03-2026",
         "Allowoffline": true
     },
     {
