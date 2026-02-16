@@ -330,6 +330,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "3025d97c554c6fe5",
+        "key": "ranjeet123",
+        "expirydate": "02-03-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2025",
