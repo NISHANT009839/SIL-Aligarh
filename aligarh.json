@@ -18,27 +18,9 @@
         "Allowoffline": true
     },
     {
-        "device_id": "914e17b78e9d9124",
-        "key": "triel",
-        "expirydate": "17-02-2026",
-        "Allowoffline": true
-    },
-    {
         "device_id": "8c0b309d5e69166b",
         "key": "ADITYA1M",
         "expirydate": "01-03-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "cef6dbf2b24a68e9",
-        "key": "praveen1m",
-        "expirydate": "18-02-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "ed8eb9e415eb69c6",
-        "key": "15suneel",
-        "expirydate": "05-02-2026",
         "Allowoffline": true
     },
     {
@@ -60,12 +42,6 @@
         "Allowoffline": true
     },
     {
-        "device_id": "717e5a7bbeee3789",
-        "key": "2hour",
-        "expirydate": "03-02-2026",
-        "Allowoffline": true
-    },
-    {
         "device_id": "1c28d12cd680365d",
         "key": "1M24FAB",
         "expirydate": "25-02-2026",
@@ -78,81 +54,9 @@
         "Allowoffline": true
     },
     {
-        "device_id": "61a512036f2c324d",
-        "key": "test00",
-        "expirydate": "07-02-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "d25ee22e551dddbf",
-        "key": "test11",
-        "expirydate": "01-02-2026",
-        "Allowoffline": true
-    }, 
-    {
-        "device_id": "device_id",
-        "key": "ramsahay",
-        "expirydate": "09-02-2026",
-        "Allowoffline": true
-    }, 
-    {
-        "device_id": "2e8449bce843303e",
-        "key": "T1DAY",
-        "expirydate": "02-02-2026",
-        "Allowoffline": true
-    }
-    {
-        "device_id": "964d386ab66aaf8b",
-        "key": "123ABC",
-        "expirydate": "11-02-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "4232017434fd6696",
-        "key": "123DEF",
-        "expirydate": "14-02-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "2d6dd123cf5678c8",
-        "key": "123GHI",
-        "expirydate": "11-02-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "792c0eb90d0d1d1e",
-        "key": "123JKL",
-        "expirydate": "12-02-2026",
-        "Allowoffline": true
-    },
-    {
         "device_id": "922c4d0ac5d1e2bd",
         "key": "PB890",
         "expirydate": "21-02-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "4686f52337565388",
-        "key": "dinesh",
-        "expirydate": "13-02-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "5a0c1752eb348598",
-        "key": "TEST1",
-        "expirydate": "09-02-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "5f9092b2dd25ce24",
-        "key": "TEST2",
-        "expirydate": "09-02-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "764599f1ad0b88ca",
-        "key": "arbaaz08",
-        "expirydate": "18-02-2026",
         "Allowoffline": true
     },
     {
@@ -168,12 +72,6 @@
         "Allowoffline": true
     },
     {
-        "device_id": "f3c33dae6b9d463a",
-        "key": "manvendra",
-        "expirydate": "14-02-2026",
-        "Allowoffline": true
-    },
-    {
         "device_id": "c21726f7ac3ef5f2",
         "key": "ganesh99",
         "expirydate": "09-03-2026",
@@ -183,12 +81,6 @@
         "device_id": "ee2ec3b4eddc2f5a",
         "key": "bamniya08",
         "expirydate": "08-03-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "ccea5825bdf30f01",
-        "key": "guru6d",
-        "expirydate": "15-02-2026",
         "Allowoffline": true
     },
     {
@@ -204,81 +96,15 @@
         "Allowoffline": true
     },
     {
-        "device_id": "0cfd570bcb131dd7",
-        "key": "TESTT11",
-        "expirydate": "15-02-2026",
-        "Allowoffline": true
-    },
-    {
         "device_id": "0bce6663a705baa7",
         "key": "ganesh88",
         "expirydate": "10-03-2026",
         "Allowoffline": true
     },
     {
-        "device_id": "f202475e3a162ab2",
-        "key": "99arman",
-        "expirydate": "17-02-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "4d7766b7978e3937",
-        "key": "sanukyc",
-        "expirydate": "18-02-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "c1e7fb1d177a9015",
-        "key": "umacharan",
-        "expirydate": "16-02-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "c26c71a90c561eeb",
-        "key": "anup12",
-        "expirydate": "13-02-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "a8d15b5e1b1bf656",
-        "key": "manu5d",
-        "expirydate": "16-02-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "ac54dce579bfccca",
-        "key": "ramsahay04",
-        "expirydate": "16-02-2026",
-        "Allowoffline": true
-    },
-    {
         "device_id": "75ea171378a166e8",
         "key": "13feb",
         "expirydate": "13-03-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "16fa43d7814f99ff",
-        "key": "ramsahay044",
-        "expirydate": "18-02-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "d3058cb149b66292",
-        "key": "ekyc04",
-        "expirydate": "18-02-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "b2bb36d3d12ef73d",
-        "key": "mukesh01",
-        "expirydate": "18-02-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "ebd7976c54929624",
-        "key": "ekyc20",
-        "expirydate": "16-02-2026",
         "Allowoffline": true
     },
     {
@@ -324,12 +150,6 @@
         "Allowoffline": true
     },
     {
-        "device_id": "564fabff06336942",
-        "key": "ssssss",
-        "expirydate": "17-02-2026",
-        "Allowoffline": true
-    },
-    {
         "device_id": "92ac8be738729f61",
         "key": "ramanandan16",
         "expirydate": "16-03-2026",
@@ -368,7 +188,7 @@
     {
         "device_id": "device456",
         "key": "key67890",
-        "expirydate": "15-06-2025",
+        "expirydate": "15-06-2026",
         "Allowoffline": false
     }
 ]
