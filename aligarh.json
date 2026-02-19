@@ -100,13 +100,7 @@
         "key": "T1DAY",
         "expirydate": "02-02-2026",
         "Allowoffline": true
-    },
-    {
-        "device_id": "e05475019ceab8b0",
-        "key": "arman500",
-        "expirydate": "21-02-2026",
-        "Allowoffline": true
-    },
+    }
     {
         "device_id": "964d386ab66aaf8b",
         "key": "123ABC",
