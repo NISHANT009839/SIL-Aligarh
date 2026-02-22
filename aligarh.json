@@ -198,6 +198,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "cef6dbf2b24a68e9",
+        "key": "praveen1m",
+        "expirydate": "23-02-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2026",
