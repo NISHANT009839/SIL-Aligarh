@@ -216,6 +216,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "8d3f3fbd6c9284d8",
+        "key": "SANKAR25",
+        "expirydate": "24-03-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2026",
