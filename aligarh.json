@@ -234,6 +234,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "03c6cf9a3785577d",
+        "key": "RUSHI12",
+        "expirydate": "02-03-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2026",
