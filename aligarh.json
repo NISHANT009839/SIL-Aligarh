@@ -240,6 +240,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "ad4c6e18a9c44aa7",
+        "key": "ARMA11",
+        "expirydate": "11-03-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "device456",
         "key": "key67890",
         "expirydate": "15-06-2026",
