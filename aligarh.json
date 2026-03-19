@@ -78,9 +78,9 @@
         "Allowoffline": true
     },
     {
-        "device_id": "e05475019ceab8b0",
-        "key": "e05475019ceab8b0",
-        "expirydate": "23-02-2026",
+        "device_id": "b32c83d2e028fa08",
+        "key": "SHDK1222",
+        "expirydate": "20-03-2026",
         "Allowoffline": true
     },
     {
@@ -99,6 +99,12 @@
         "device_id": "a4399a226ffd6c56",
         "key": "BAG8890",
         "expirydate": "22-03-2026",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "b8ecea2cf28e9e5c",
+        "key": "RAJ6623",
+        "expirydate": "20-03-2026",
         "Allowoffline": true
     },
     {
