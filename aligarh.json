@@ -17,28 +17,27 @@
         "expirydate": "30-03-2026",
         "Allowoffline": true
     },
-    
     {
-        "device_id": "4f1be751821e60a4",
-        "key": "RAJ6622",
+        "device_id": "b8ecea2cf28e9e5c",
+        "key": "DURAJ6622",
         "expirydate": "31-03-2026",
         "Allowoffline": true
     },
     {
         "device_id": "151c1da56b7f19e1",
-        "key": "RAJ8623",
+        "key": "ORIRAJ8623",
         "expirydate": "31-03-2026",
         "Allowoffline": true
     },
     {
         "device_id": "5f9092b2dd25ce24",
-        "key": "RAJ6622",
+        "key": "DURAM6622",
         "expirydate": "31-03-2026",
         "Allowoffline": true
     },
     {
-        "device_id": "b8ecea2cf28e9e5c",
-        "key": "RAJ8623",
+        "device_id": "4f1be751821e60a4",
+        "key": "ORIRAM8623",
         "expirydate": "31-03-2026",
         "Allowoffline": true
     },
