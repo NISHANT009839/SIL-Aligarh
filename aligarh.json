@@ -102,6 +102,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "899af5f2ace8f837",
+        "key": "KDBDIS",
+        "expirydate": "20-05-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "cec7a63a4be55dd6",
         "key": "DRAM01",
         "expirydate": "02-05-2026",
