@@ -90,6 +90,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "9f9a828c2f5a6c29",
+        "key": "RODBSKWO",
+        "expirydate": "01-05-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "cec7a63a4be55dd6",
         "key": "DRAM01",
         "expirydate": "02-05-2026",
