@@ -108,6 +108,12 @@
         "Allowoffline": true
     },
     {
+        "device_id": "96565cde73e046c7",
+        "key": "DIEBDK",
+        "expirydate": "02-05-2026",
+        "Allowoffline": true
+    },
+    {
         "device_id": "cec7a63a4be55dd6",
         "key": "DRAM01",
         "expirydate": "02-05-2026",
