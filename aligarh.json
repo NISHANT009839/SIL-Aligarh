@@ -83,5 +83,11 @@
         "expirydate": "02-05-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "b8ecea2cf28e9e5c",
+        "key": "RAM01",
+        "expirydate": "02-05-2026",
+        "Allowoffline": true
+    },
     
 ]
