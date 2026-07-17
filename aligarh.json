@@ -4,6 +4,12 @@
     "key": "10DGGG10",
     "expirydate": "20-07-2026",
     "Allowoffline": true
+  } 
+  {
+    "device_id": "1a458b6ab3952018",
+    "key": "15D17J",
+    "expirydate": "02-08-2026",
+    "Allowoffline": true
   },
   {
     "device_id": "7af7ff3ed9ca2023",
