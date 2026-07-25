@@ -46,5 +46,11 @@
     "key": "15D12GJ",
     "expirydate": "27-07-2026",
     "Allowoffline": true
+  },
+  {
+    "device_id": "c4655ac794d60eeb",
+    "key": "NISH",
+    "expirydate": "27-12-2026",
+    "Allowoffline": true
   }
 ]
